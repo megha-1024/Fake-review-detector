@@ -9,13 +9,13 @@ Click here to try the app:(https://fake-review-detector-m2.streamlit.app/)
 
 **#Project Structure:**
 
-├── app.py # Streamlit app
+├── app.py (Streamlit app)
 
-├── xgb_model.pkl # Trained XGBoost model
+├── xgb_model.pkl (Trained XGBoost model)
 
-├── requirements.txt # Dependencies
+├── requirements.txt (Dependencies)
 
-└── Preprocessed Dataset # Source dataset used for training
+└── Preprocessed Dataset (Source dataset used for training)
 
 
 
